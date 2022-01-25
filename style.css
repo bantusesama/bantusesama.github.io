@@ -194,7 +194,8 @@ section.abuabu {
   font-weight: bold;
 }
 .support img {
-  width: 300px;
+  width: 250px;
+  height: 250px;
 }
 .support div{
   text-align: center;
