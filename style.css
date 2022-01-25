@@ -127,7 +127,7 @@ header .intro h3 {
     font-family: 'PT serif', serif;
 }
 .tombol2 {
-  background-color: #e5eded91;
+  background-color: #E5EDED;
   height: 40px;
   line-height: 42px;
   color: #000000;
@@ -135,18 +135,6 @@ header .intro h3 {
   display: inline-block;
   padding: 0px 20px 0px 20px;
   font-size: 14px;
-  border-radius: 7px;
-  font-family: 'PT serif', serif;
-}
-.tombol2 {
-  background-color: #e5eded91;
-  height: 40px;
-  line-height: 42px;
-  color: #000000;
-  text-decoration: none;
-  display: inline-block;
-  padding: 0px 20px 0px 20px;
-  font-size: 15px;
   border-radius: 7px;
   font-family: 'PT serif', serif;
 }
